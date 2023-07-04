@@ -7,7 +7,6 @@ compile  c file
 
 ```
 gcc -o sum+avg.o sum+avg.c
-
 ```
 
 Run file 
